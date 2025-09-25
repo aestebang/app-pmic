@@ -1,0 +1,518 @@
+[
+ {
+  "REFERENCIA": "AAT1218",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "ACT88325",
+  "VCC": "Pin none",
+  "SCL": "Pin SI",
+  "SDA": "Pin SI"
+ },
+ {
+  "REFERENCIA": "AUO-G1422.29",
+  "VCC": "Pin none",
+  "SCL": "Pin 14",
+  "SDA": "Pin 15"
+ },
+ {
+  "REFERENCIA": "AUOG1422.2H",
+  "VCC": "Pin none",
+  "SCL": "Pin 14",
+  "SDA": "Pin 15"
+ },
+ {
+  "REFERENCIA": "B601-1CR",
+  "VCC": "None",
+  "SCL": "Pin 14",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "B601-1N",
+  "VCC": "None",
+  "SCL": "Pin 14",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "B601-1S",
+  "VCC": "None",
+  "SCL": "Pin 14",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "B601-2C",
+  "VCC": "None",
+  "SCL": "Pin 14",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "BOE\/60001",
+  "VCC": "None",
+  "SCL": "Pin 7",
+  "SDA": "Pin 6"
+ },
+ {
+  "REFERENCIA": "BOE60001 ",
+  "VCC": "None",
+  "SCL": "Pin 18",
+  "SDA": "Pin 7"
+ },
+ {
+  "REFERENCIA": "BSFXXX",
+  "VCC": "None",
+  "SCL": "Pin 32 ",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "BUF08630",
+  "VCC": "None",
+  "SCL": "Pin 20",
+  "SDA": "Pin 1"
+ },
+ {
+  "REFERENCIA": "BUF08821",
+  "VCC": "Pin none",
+  "SCL": "Pin 9",
+  "SDA": "Pin 10"
+ },
+ {
+  "REFERENCIA": "BUF08832",
+  "VCC": "Npne",
+  "SCL": "Pin 9",
+  "SDA": "Pin 10"
+ },
+ {
+  "REFERENCIA": "BUF16821",
+  "VCC": "Pin none",
+  "SCL": "Pin 14",
+  "SDA": "Pin 15"
+ },
+ {
+  "REFERENCIA": "BUF22821",
+  "VCC": "Pin none",
+  "SCL": "Pin 18",
+  "SDA": "Pin 19"
+ },
+ {
+  "REFERENCIA": "BUF8821B",
+  "VCC": "Pin none",
+  "SCL": "Pin 9",
+  "SDA": "Pin 10"
+ },
+ {
+  "REFERENCIA": "CM601",
+  "VCC": "Pin none",
+  "SCL": "Pin 3",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "CM602",
+  "VCC": "Pin none",
+  "SCL": "Pin 3",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "CXKXXX",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "DS3501",
+  "VCC": "Pin none",
+  "SCL": "Pin 10",
+  "SDA": "Pin 1"
+ },
+ {
+  "REFERENCIA": "G2510",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "G2531",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "G2532",
+  "VCC": "None",
+  "SCL": "Pin 12",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "G2532P",
+  "VCC": "None",
+  "SCL": "Pin 12",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "G2533",
+  "VCC": "None",
+  "SCL": "Pin 7",
+  "SDA": "Pin 6"
+ },
+ {
+  "REFERENCIA": "G2562",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "G2731",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "G2732T",
+  "VCC": "None",
+  "SCL": "Pin 12",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "G2733",
+  "VCC": "None",
+  "SCL": "Pin 7",
+  "SDA": "Pin 6"
+ },
+ {
+  "REFERENCIA": "G2734P",
+  "VCC": "None",
+  "SCL": "Pin 11",
+  "SDA": "Pin 12"
+ },
+ {
+  "REFERENCIA": "HA12591",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "HA523A",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "HA5B20",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "HX2510",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "HX556S",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "IM8943",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "IML8940",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "ISL91212A",
+  "VCC": "Pin none",
+  "SCL": "Pin SI",
+  "SDA": "Pin SI"
+ },
+ {
+  "REFERENCIA": "ISL91212B",
+  "VCC": "Pin none",
+  "SCL": "Pin SI",
+  "SDA": "Pin SI"
+ },
+ {
+  "REFERENCIA": "LP6228",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "LP6281",
+  "VCC": "None",
+  "SCL": "Pin 12",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "MAX9668",
+  "VCC": "Pin none",
+  "SCL": "Pin 20",
+  "SDA": "Pin 1"
+ },
+ {
+  "REFERENCIA": "MAX9669",
+  "VCC": "Pin none",
+  "SCL": "Pin 2",
+  "SDA": "Pin 3"
+ },
+ {
+  "REFERENCIA": "MAX9672",
+  "VCC": "Pin none",
+  "SCL": "Pin 2",
+  "SDA": "Pin 3"
+ },
+ {
+  "REFERENCIA": "MAX9673",
+  "VCC": "Pin none",
+  "SCL": "Pin 2",
+  "SDA": "Pin 3"
+ },
+ {
+  "REFERENCIA": "MAX9674",
+  "VCC": "Pin none",
+  "SCL": "Pin 2",
+  "SDA": "Pin 3"
+ },
+ {
+  "REFERENCIA": "MAX9679",
+  "VCC": "Pin none",
+  "SCL": "Pin 3",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "MAX9696",
+  "VCC": "Pin none",
+  "SCL": "Pin 2",
+  "SDA": "Pin 3"
+ },
+ {
+  "REFERENCIA": "MPQ8894",
+  "VCC": "Pin none",
+  "SCL": "Pin SI",
+  "SDA": "Pin SI"
+ },
+ {
+  "REFERENCIA": "NT50330S",
+  "VCC": "None",
+  "SCL": "Pin 5",
+  "SDA": "Pin 4"
+ },
+ {
+  "REFERENCIA": "NT50331",
+  "VCC": "None",
+  "SCL": "Pin 14",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "NT50660S",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "P303-19",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "P303-2V",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "P303-31",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "RT5963",
+  "VCC": "None",
+  "SCL": "Pin 32 ",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "RT6919C",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "RT6923",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "PIN 17"
+ },
+ {
+  "REFERENCIA": "RT6925A",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "RT6937",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin17"
+ },
+ {
+  "REFERENCIA": "RT6943A",
+  "VCC": "Pin none",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "RT6950",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "RT6958",
+  "VCC": "None",
+  "SCL": "Pin 7",
+  "SDA": "Pin 6"
+ },
+ {
+  "REFERENCIA": "RT6970",
+  "VCC": "None",
+  "SCL": "Pin 15",
+  "SDA": "Pin 16"
+ },
+ {
+  "REFERENCIA": "SM405",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SM4051",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SM4051D",
+  "VCC": "Pin none",
+  "SCL": "Pin 20",
+  "SDA": "Pin 21"
+ },
+ {
+  "REFERENCIA": "SM4053B",
+  "VCC": "Pin none",
+  "SCL": "Pin 20",
+  "SDA": "Pin 21"
+ },
+ {
+  "REFERENCIA": "SM4054D",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SM4080",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SM4085",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SM4809",
+  "VCC": "None",
+  "SCL": "Pin 12",
+  "SDA": "Pin 13"
+ },
+ {
+  "REFERENCIA": "SW50212",
+  "VCC": "None",
+  "SCL": "Pin 16 ",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SW50222",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SW5084A",
+  "VCC": "Pin none",
+  "SCL": "Pin 20",
+  "SDA": "Pin 21"
+ },
+ {
+  "REFERENCIA": "SW5094A",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SW50B3A",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SW50B4A",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SW5243A",
+  "VCC": "None",
+  "SCL": "Pin 16",
+  "SDA": "Pin 17"
+ },
+ {
+  "REFERENCIA": "SY634",
+  "VCC": "None",
+  "SCL": "Pin 32",
+  "SDA": "Pin 33"
+ },
+ {
+  "REFERENCIA": "TPS 65178",
+  "VCC": "None",
+  "SCL": "Pin 27",
+  "SDA": "Pin 28"
+ },
+ {
+  "REFERENCIA": "TPS65023",
+  "VCC": "Pin none",
+  "SCL": "Pin SI",
+  "SDA": "Pin SI"
+ },
+ {
+  "REFERENCIA": "TPS65168",
+  "VCC": "None",
+  "SCL": "Pin 6",
+  "SDA": "Pin 8"
+ },
+ {
+  "REFERENCIA": "TPS65175", 
+  "VCC": "Pin 15,16",
+  "SCL": "Pin 20",
+  "SDA": "Pin 21"
+ },
+ {
+  "REFERENCIA": "TPS65263",
+  "VCC": "Pin none",
+  "SCL": "Pin SI ",
+  "SDA": "Pin SI"
+ }
+]
